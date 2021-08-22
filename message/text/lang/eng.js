@@ -1286,7 +1286,7 @@ exports.tos = () => {
     return `
 -----[ TERMS OF SERVICE ]-----
 
-This bot is an open-source bot, come with the name of BocchiBot which is available on GitHub for free.
+This bot is an open-source bot, come with the name of CHICA-BOT which is available on GitHub for free.
 The owner/hoster of this bot is independent from the responsibility and supervision of the developer (Rhishna).
 Owner/hoster may plagiarize, add, delete, replace source code with notes *DO NOT SELL* this source code in any form.
 If an error occurs, the first person you should contact is the owner/hoster.  
@@ -1299,7 +1299,7 @@ wa.me/${ownerNumber.replace('@c.us', '')} (Owner/hoster)
 wa.me/6283830172470 (Developer)
 
 You guys can also support me to keep this bot up to date with:
-083830172470 (PULSA AJ OUM:3)
+083830172470 (pulsa aja oum:3)
 
 Thank you!
 
