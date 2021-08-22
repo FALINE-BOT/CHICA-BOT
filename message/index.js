@@ -1928,7 +1928,7 @@ module.exports = msgHandler = async (bocchi = new Client(), message) => {
             break
             case prefix+'tos':
                 if (!isRegistered) return await bocchi.reply(from, ind.notRegistered(), id)
-                await bocchi.sendLinkWithAutoPreview(from, 'https://github.com/SlavyanDesu/BocchiBot', ind.tos(ownerNumber))
+                await bocchi.sendLinkWithAutoPreview(from, 'https://github.com/FALINE-BOT/CHICA-BOT', ind.tos(ownerNumber))
             break
             case prefix+'join':
                 if (!isRegistered) return await bocchi.reply(from, ind.notRegistered(), id)
@@ -3973,7 +3973,7 @@ module.exports = msgHandler = async (bocchi = new Client(), message) => {
                         txt += '╠➥'
                         txt += ` @${groupAdm[i].replace(/@c.us/g, '')}\n`
                     }
-                    txt += '╚═〘 *B O C C H I  B O T* 〙'
+                    txt += '╚═〘 *C H I C A  B O T* 〙'
                     await bocchi.sendTextWithMentions(from, txt)
                 } else {
                     let txt = '╔══✪〘 *ADMINS* 〙✪══\n'
@@ -3981,7 +3981,7 @@ module.exports = msgHandler = async (bocchi = new Client(), message) => {
                         txt += '╠➥'
                         txt += ` @${groupAdm[i].replace(/@c.us/g, '')}\n`
                     }
-                    txt += '╚═〘 *B O C C H I  B O T* 〙'
+                    txt += '╚═〘 *C H I C A  B O T* 〙'
                     await bocchi.sendTextWithMentions(from, txt)
                     daily.addLimit(sender.id, _daily)
                 }
@@ -4003,7 +4003,7 @@ module.exports = msgHandler = async (bocchi = new Client(), message) => {
                             txt += '╠➥'
                             txt += ` @${groupMem[i].id.replace(/@c.us/g, '')}\n`
                         }
-                    txt += '╚═〘 *B O C C H I  B O T* 〙'
+                    txt += '╚═〘 *C H I C A B O T* 〙'
                     await bocchi.sendTextWithMentions(from, txt)
                 } else {
                     let txt = '╔══✪〘 *EVERYONE* 〙✪══\n'
@@ -4011,7 +4011,7 @@ module.exports = msgHandler = async (bocchi = new Client(), message) => {
                             txt += '╠➥'
                             txt += ` @${groupMem[i].id.replace(/@c.us/g, '')}\n`
                         }
-                    txt += '╚═〘 *B O C C H I  B O T* 〙'
+                    txt += '╚═〘 *C H I C A  B O T* 〙'
                     await bocchi.sendTextWithMentions(from, txt)
                     daily.addLimit(sender.id, _daily)
                 }
