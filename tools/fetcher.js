@@ -49,7 +49,7 @@ const fetchBuffer = (url, options) => {
 }
 
 /**
- * Upload images to telegra.ph server
+ * Upload images to telegra.ph server.
  * @param {Buffer} buffData 
  * @param {string} fileName
  * @returns {Promise<string>}
