@@ -21,5 +21,6 @@ module.exports = {
         'require-await': 'error',
         'quotes': ['warn', 'single'],
         'no-async-promise-executor': 'off'
+        .
     }
 }
