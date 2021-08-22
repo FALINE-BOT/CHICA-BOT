@@ -169,5 +169,4 @@ CEK AJ KAK:3
 Authored and maintained by RHISHNA.
 
 <p align="center">
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSlavyanDesu%2FBocchiBot?ref=badge_large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSlavyanDesu%2FBocchiBot.svg?type=large" />
-</p>
+  <a href="<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FFALINE-BOT%2FCHICA-BOT?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FFALINE-BOT%2FCHICA-BOT.svg?type=large"/></a>
