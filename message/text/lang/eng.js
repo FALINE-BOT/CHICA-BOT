@@ -7,7 +7,7 @@ exports.wait = () => {
 }
 
 exports.ok = () => {
-    return `Ok desu~`
+    return `Ok chica~`
 }
 
 exports.wrongFormat = () => {
@@ -864,12 +864,12 @@ exports.menuFun = () => {
 1. *${prefix}hartatahta*
 Make a picture of the "Harta Tahta Nama".
 Aliases: -
-Usage: *${prefix}hartatahta* name
+Usage: *${prefix}hartatahta* nay
 
 2. *${prefix}partner*
 Weton match. (Indonesian)
 Aliases: *pasangan*
-Usage: *${prefix}partner* name | partner
+Usage: *${prefix}partner* rhis | nay
 
 3. *${prefix}zodiac*
 Weekly zodiac fortune. (Indonesian)
@@ -1277,7 +1277,7 @@ Owner:
 wa.me/${ownerNumber.replace('@c.us', '')}
 
 Source code by:
-wa.me/6281294958473 (Slavyan)
+wa.me/6283830172470 (Rhishna)
     `
 }
 
@@ -1287,22 +1287,22 @@ exports.tos = () => {
 -----[ TERMS OF SERVICE ]-----
 
 This bot is an open-source bot, come with the name of BocchiBot which is available on GitHub for free.
-The owner/hoster of this bot is independent from the responsibility and supervision of the developer (Slavyan).
+The owner/hoster of this bot is independent from the responsibility and supervision of the developer (Rhishna).
 Owner/hoster may plagiarize, add, delete, replace source code with notes *DO NOT SELL* this source code in any form.
 If an error occurs, the first person you should contact is the owner/hoster.  
 
 If you want to contributing to this project, visit:
-https://github.com/SlavyanDesu/BocchiBot
+https://github.com/FALINE-BOT/CHICA-BOT
 
 Contact person:
 wa.me/${ownerNumber.replace('@c.us', '')} (Owner/hoster)
-wa.me/6281294958473 (Developer)
+wa.me/6283830172470 (Developer)
 
 You guys can also support me to keep this bot up to date with:
-081294958473 (OVO/Telkomsel/GoPay)
+083830172470 (PULSA AJ OUM:3)
 
 Thank you!
 
-- Slavyan
+- Rhishna
     `
 }
