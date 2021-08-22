@@ -12,24 +12,24 @@ const fs = require('fs-extra')
 const { groupLimit, memberLimit } = require('./database/bot/setting.json')
 
 const start = (bocchi = new Client()) => {
-    console.log(color(figlet.textSync('BocchiBot', 'Larry 3D'), 'cyan'))
+    console.log(color(figlet.textSync('CHICABOT', 'Larry 3D'), 'cyan'))
     console.log(color('=> Bot successfully loaded! Database:', 'yellow'), color(loader.getAllDirFiles('./database').length), color('Library:', 'yellow'), color(loader.getAllDirFiles('./lib').length), color('Function:', 'yellow'), color(loader.getAllDirFiles('./function').length))
     console.log(color('=> Source code version:', 'yellow'), color(version))
     console.log(color('=> Bug? Error? Suggestion? Visit here:', 'yellow'), color(bugs.url))
-    console.log(color('[BOCCHI]'), color('BocchiBot is now online!', 'yellow'))
+    console.log(color('[CHICA]'), color('CHICABOT is now online!', 'yellow'))
     console.log(color('[DEV]', 'cyan'), color('Welcome back, Owner! Hope you are doing well~', 'magenta'))
 
     // Uncomment code di bawah untuk mengaktifkan auto-update file changes. Tidak disarankan untuk long-time use.
     // loader.nocache('../message/index.js', (m) => console.log(color('[WATCH]', 'orange'), color(`=> '${m}'`, 'yellow'), 'file is updated!'))
 
     bocchi.onStateChanged((state) => {
-        console.log(color('[BOCCHI]'), state)
+        console.log(color('[CHICA]'), state)
         if (state === 'UNPAIRED' || state === 'CONFLICT' || state === 'UNLAUNCHED') bocchi.forceRefocus()
     })
 
     bocchi.onAddedToGroup(async (chat) => {
         const gc = await bocchi.getAllGroups()
-        console.log(color('[BOCCHI]'), 'Added to a new group. Name:', color(chat.contact.name, 'yellow'), 'Total members:', color(chat.groupMetadata.participants.length, 'yellow'))
+        console.log(color('[CHICA]'), 'Added to a new group. Name:', color(chat.contact.name, 'yellow'), 'Total members:', color(chat.groupMetadata.participants.length, 'yellow'))
         if (chat.groupMetadata.participants.includes(ownerBot)) {
             await bocchi.sendText(chat.id, ind.addedGroup(chat))
         } else if (gc.length > groupLimit) {
