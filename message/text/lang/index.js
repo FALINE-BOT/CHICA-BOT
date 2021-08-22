@@ -1,2 +1,2 @@
 exports.ind = require('./ind')
-exports.eng = require('./eng')
+exports eng = require('./eng')
