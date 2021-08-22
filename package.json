@@ -1,20 +1,20 @@
 {
-  "name": "bocchibot",
+  "name": "CHICABOT",
   "version": "0.7.0",
-  "description": "BocchiBot is a multipurpose WhatsApp bot.",
+  "description": "CHICABOT is a multipurpose WhatsApp bot.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "SlavyanDesu",
+  "author": "Rhishna",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SlavyanDesu/BocchiBot.git"
+    "url": "https://github.com/FALINE-BOT/CHICA-BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/SlavyanDesu/BocchiBot/issues"
+    "url": "https://github.com/FALINE-BOT/CHICA-BOT/issues"
   },
-  "homepage": "https://github.com/SlavyanDesu/BocchiBot",
+  "homepage": "https://github.com/FALINE-BOT/CHICA-BOT",
   "license": "MIT",
   "dependencies": {
     "@justalk/pornhub-api": "^3.5.0",
