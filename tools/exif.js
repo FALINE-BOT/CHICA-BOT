@@ -1,7 +1,7 @@
 /** 
  * Originally created by cwke
  * Reuploaded by Waxaranai
- * Recoded by SlavyanDesu
+ * Recoded by Rhishna
  */
 
 const fs = require('fs-extra')
