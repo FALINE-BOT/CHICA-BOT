@@ -6,7 +6,7 @@ exports.wait = () => {
 }
 
 exports.ok = () => {
-    return `Ok desu~`
+    return `Ok chica~`
 }
 
 exports.wrongFormat = () => {
@@ -1134,7 +1134,7 @@ Usage: *${prefix}hartatahta* nama
 2. *${prefix}partner*
 Weton jodoh.
 Aliases: *pasangan*
-Usage: *${prefix}partner* nama | pasangan
+Usage: *${prefix}partner* rhis | nay
 
 3. *${prefix}zodiac*
 Ramalan zodiak Mingguan.
@@ -1558,23 +1558,23 @@ exports.tos = (ownerNumber) => {
     return `
 *── 「 TERMS OF SERVICE 」 ──*
 
-Bot ini merupakan open-source bot dengan nama asli BocchiBot yang tersedia di GitHub secara gratis.
-Owner/hoster dari bot ini terlepas dari tanggung jawab dan pengawasan developer (Slavyan).
+Bot ini merupakan open-source bot dengan nama asli CHICA-BOT yang tersedia di GitHub secara gratis.
+Owner/hoster dari bot ini terlepas dari tanggung jawab dan pengawasan developer (Rhishna).
 Owner/hoster boleh menjiplak, menambahkan, menghapus, mengganti source code dengan catatan *tidak memperjualbelikannya* dalam bentuk apapun.
 Apabila terjadi sebuah error, orang yang pertama yang harus kalian hubungi ialah owner/hoster.
 
 Jika kalian ingin berkontribusi dalam projek ini, silakan kunjungi:
-https://github.com/SlavyanDesu/BocchiBot
+https://github.com/FALINE-BOT/CHICA-BOT
 
 Contact person:
 wa.me/${ownerNumber.replace('@c.us', '')} (Owner/hoster)
-wa.me/6281294958473 (Developer)
+wa.me/6283830172470 (Developer)
 
 Kalian juga bisa mendukung saya agar bot ini tetap up to date dengan:
-081294958473 (OVO/Telkomsel/GoPay)
+083830172470 (pulsa aja oum:3)
 
 Terima kasih!
 
-Slavyan.
+Rhishna.
     `
 }
