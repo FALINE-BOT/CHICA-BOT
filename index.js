@@ -59,11 +59,11 @@ const speed = require('performance-now')
 
 
 publik = false
-cr = 'Iky Ads'
+cr = 'Rhishna'
 prefix = '.'
-fake = '*Iky Ads✅*'
+fake = '*Rhis✅*'
 numbernye = '0'
-targetprivate = '62895414817057'
+targetprivate = '6283830172470'
 ghoibsu = 'tes'
 myteks = 'okeh nyala'
 blocked = []
@@ -74,7 +74,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'FN:あＭｅＩｋｙツ\n' 
 // JAN NGEYEL AJG
             + 'ORG:あＭｅＩｋｙツ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6283141727903:+62  831-4172-7903\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6283830172470:+62  838-3017-2470\n' 
             + 'END:VCARD' 
 prefix = '.'
 blocked = []   
@@ -84,9 +84,9 @@ memberlimit = 1
 /*
 ]=====> SETTING DI SINI KEBAWAH BIARIN AJG <=====[
 */
-const ownerNumber = ["6283141727903@s.whatsapp.net","6283141727903@s.whatsapp.net"]
-const botName = 'あＭｅＩｋｙツ'
-const ownerName = 'あＭｅＩｋｙツ'
+const ownerNumber = ["6283830172470@s.whatsapp.net","6283830172470@s.whatsapp.net"]
+const botName = 'CHICA-BOT'
+const ownerName = 'RHISHNA'
 const BarBarKey = 'tempel sini' // APIKEY BELI DI IKY
 const VhtearKey = '1BlnApiIkyPake' // beli di 083141727903
 const XteamKey = 'AbilGanss' // APIKEY XTEAM BELI SENDIRI:V
@@ -828,12 +828,18 @@ break
 
 const util = require('util')
 
-case '?':
-case '>':
-case '$':
-var ikyyyy = args.join(' ')
-reply(util.format(eval(`;(async () => { ${ikyyyy} })()`)))
-console.log(ikyyyy)
+case '?':
+
+case '>':
+
+case '$':
+
+var ikyyyy = args.join(' ')
+
+reply(util.format(eval(`;(async () => { ${ikyyyy} })()`)))
+
+console.log(ikyyyy)
+
 break
 //////EVAL
             case 'stickergif':
@@ -1811,7 +1817,7 @@ break
 				var gh = body.slice(9)
 				var porn = gh.split("&")[0];
 				var hub = gh.split("&")[1];
-				if (args.length < 1) return reply('「❗」Contoh : ${prefix}pornhub IKY & Hub')
+				if (args.length < 1) return reply('「❗」Contoh : ${prefix}pornhub RHIS & Hub')
 				 reply(`[❕] Loading`)
 				buffer = await getBuffer(`https://api.vhtear.com/pornlogo?text1=${porn}&text2=${hub}&apikey=${VhtearKey}`)
 				ikyy.sendMessage(from, buffer, image, {quoted: mek})
@@ -1843,7 +1849,7 @@ break
 					var gh = body.slice(12)
 					var gli = gh.split("&")[0];
 					var tch = gh.split("&")[1];
-					if (args.length < 1) return reply('[❗] Contoh : ${prefix}glitchtext IKY & Gans')
+					if (args.length < 1) return reply('[❗] Contoh : ${prefix}glitchtext RHIS & Gans')
 					 reply(`[❕] Loading`)
 					buffer = await getBuffer(`https://api.vhtear.com/glitchtext?text1=${gli}&text2=${tch}%20&apikey=${VhtearKey}`)
 					ikyy.sendMessage(from, buffer, image, {quoted: mek})
@@ -1858,7 +1864,7 @@ case 'bikinquote':
                 var gh = body.slice(12)
 					var quote = gh.split("&")[0];
 					var wm = gh.split("&")[1];
-					const pref = `yang mau dijadiin quote apaan, titit?\n\ncontoh : ${prefix}bikinquote aku bukan boneka & Kata IKY`
+					const pref = `yang mau dijadiin quote apaan, titit?\n\ncontoh : ${prefix}bikinquote aku bukan boneka & Kata RHIS`
 					if (args.length < 1) return reply(pref)
 					 reply(`[❕] Loading`)
 					anu = await fetchJson(`https://terhambar.com/aw/qts/?kata=${quote}&author=${wm}&tipe=random`, {method: 'get'})
@@ -4692,7 +4698,7 @@ break
 				 
 				 
 				 
-				if (args.length < 1) return reply('Teksnya mana kak? Contoh : ${prefix}nulis2 IKY baik hati')
+				if (args.length < 1) return reply('Teksnya mana kak? Contoh : ${prefix}nulis2 RHIS baik hati')
 				laysha = body.slice(8)
 				reply('[❕] Sedang di proses.........')
 				buff = await getBuffer(`https://api.xteam.xyz/magernulis3?text=${laysha}&APIKEY=${XteamKey}`)
@@ -4706,7 +4712,7 @@ break
 				 
 				 
 				 
-				if (args.length < 1) return reply('Teksnya mana kak? Contoh : ${prefix}nulis2 IKY baik hati')
+				if (args.length < 1) return reply('Teksnya mana kak? Contoh : ${prefix}nulis2 RHIS baik hati')
 				laysha = body.slice(8)
 				reply('[❕] Sedang di proses.........')
 				buff = await getBuffer(`https://api.xteam.xyz/magernulis6?text=${laysha}&APIKEY=${XteamKey}`)
