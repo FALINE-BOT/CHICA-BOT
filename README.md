@@ -39,8 +39,6 @@ REUPLOD? KASIH LINK YT AKU KAKAK
 ## NOTE:> 
 
 SUBSCRIBE RHISHNA CAPITAL YA JNG CUMA PAKE DOANG😘
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naisayuriza/naisabotz)
 
 </div>
 
@@ -62,7 +60,7 @@ Siapin alat dan bahannya.
 
 > aplikasi termux
 
- UDHA KO ITU DOANG
+ UDAH ITU DOANG KA
 
 ```
 
@@ -70,7 +68,7 @@ Siapin alat dan bahannya.
 
 ```bash
 
-> kalo lu belum punya apk termux, download di playstore
+> kalo kamu belum punya apk termux, download di playstore
 
 > masuk ke apk termux lalu ketik dibawah ini!
 
@@ -86,31 +84,31 @@ Siapin alat dan bahannya.
 
 > pkg install mc -y
 
-> git clone https://github.com/rizkiadiasa/MeikyBot
+> git clone https://github.com/FALINE-BOT/CHICA-BOT
 
-> cd MeikyBot
+> cd CHICA-BOT
 
 > bash install.sh
 
 > npm start
 
-> SCAN DAH BRO MHEHE EZ KAN:V
+> LALU SCAN MUDAH KAN KAK
 
 ```
 
-Ket: Script ini gratis ye Jangan dijual_-
+Ket: Script ini gratis ye Jangan dijual kak
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 
-* [`Donasi の ＭｅＩｋｙ あ`](https://saweria.co/IkyyAds)
+* [`Donasi の ＭｅＩｋｙ あ`](https://saweria.co/naisa alifia yuriza)
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Iky`](https://youtube.com/c/IkyyAds)
+* [`Youtube Iky`](https://youtube.com/c/rhishnacapital)
 
-* [`Instagram Iky`](https://instagram.com/ikyy_ads)
+* [`Instagram Iky`](https://instagram.com/rhishna_)
 
-* [`WhatsApp Iky `](https://wa.me/+6283141727903)
+* [`WhatsApp Iky `](https://wa.me/+628)
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
