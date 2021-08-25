@@ -24,25 +24,21 @@
 
 </p>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
+<img alt="GIF" src="https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif" width="980" />
 
 <div align="center">
 
 <details>
 
- 
-
-</details>
-
-### THANKS FOR MHANK BAR BAR & IKY ADS
+### THANKS FOR NAISA ALIFIA YURIZA
 
 ### WARNING
 
-REUPLOD? KASIH LINK YT GW SAMA TQ TQ
+REUPLOD? KASIH LINK YT AKU KAKAK
 
 ## NOTE:> 
 
-SUBREK IKY ADS YAK JNG CUMA PAKE DOANG:)
+SUBSCRIBE RHISHNA YA JNG CUMA PAKE DOANG:)
 
 </div>
 
