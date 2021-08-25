@@ -39,6 +39,8 @@ REUPLOD? KASIH LINK YT AKU KAKAK
 ## NOTE:> 
 
 SUBSCRIBE RHISHNA CAPITAL YA JNG CUMA PAKE DOANG😘
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naisayuriza/naisabotz)
 
 </div>
 
