@@ -2,7 +2,7 @@ const iklan = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _
 	return `❀:ཻུ۪۪⸙ -----[ *IKLAN DULU GAYS* ]----- ❀:ཻུ۪۪⸙
 Hallo, ${pushname} 👋
 Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
-╭════〘 *IKY BOT* 〙════⊱❁۪۪۪
+╭════〘 *CHICA BOT* 〙════⊱❁۪۪۪
 ┃□╭─────────────────
 ┃□│⊱❥ NAMA : ${pushname}
 ┃□│⊱❥ LEVEL : ${getLevelingLevel(sender)}
