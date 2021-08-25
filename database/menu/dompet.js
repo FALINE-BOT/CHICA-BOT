@@ -2,7 +2,7 @@ const dompet = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, 
 	return ` ❁ཻུ۪۪⸙͎ -----[ *DOMPETKU MENU* ]-----  ❁ཻུ۪۪⸙͎
 Hallo, ${pushname} 👋
 Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
-╭════〘 *IKY BOT* 〙════⊱❁۪۪۪
+╭════〘 *CHICA BOT* 〙════⊱❁۪۪۪
 ┃   ╭─────────────────
 ┃□│⊱❥ NAMA : ${pushname}
 ┃□│⊱❥ LEVEL : ${getLevelingLevel(sender)}
