@@ -38,11 +38,11 @@ REUPLOD? KASIH LINK YT AKU KAKAK
 
 ## NOTE:> 
 
-SUBSCRIBE RHISHNA CAPITAL YA JNG CUMA PAKE DOANG😘
-
+SUBSCRIBE RHISHNA CAPITAL YA <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif?cid=ecf05e47hxs3i5wblt1kn515uqvsmr1um6h8ividmdl5puox&rid=giphy.gif&ct=g" width="60px">
+  
 </div>
 
-### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+### ALAT DAN BAHAN <img src="https://media.giphy.com/media/3ov9k0Ziq50EoOuWRi/giphy.gif" width="60px">
 
 Siapin alat dan bahannya.
 
@@ -64,7 +64,7 @@ Siapin alat dan bahannya.
 
 ```
 
-### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+### CARA INSTALLNYA  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47btrb9t6otvhkag0esx9vjb26jfzwg1owgixkxdjj&rid=giphy.gif&ct=s" width="50px">
 
 ```bash
 
@@ -100,21 +100,19 @@ Ket: Script ini gratis ye Jangan dijual kak
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 
-* [`Donasi の ＭｅＩｋｙ あ`](https://saweria.co/naisa alifia yuriza)
+* [`Donasi RHISHNA`](https://saweria.co/naisaalifiayuriza)
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Iky`](https://youtube.com/c/rhishnacapital)
+* [`Youtube Rhishna`](https://youtube.com/c/rhishnacapital)
 
-* [`Instagram Iky`](https://instagram.com/rhishna_)
-
-* [`WhatsApp Iky `](https://wa.me/+628)
+* [`Instagram Rhishna`](https://instagram.com/rhishna_)
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`DOA KAWAN & DOA EMAK`]
-* [`Abil pea`]
-* [`Ramlan kuntul`]
-*[`Mhank bar bar`]
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+* [`NAISA ALIFIA YURIZA`]
+* [`RHISHNA`]
+* [`© 2021 GitHub, Inc`]
+* [`GIPHY`]
+<img src="https://media.giphy.com/media/Cc2lafq8xjgu4/giphy.gif?cid=ecf05e47g0dmlmx8ua2myk75ehzqh23lx8elzpvgpq5mb92d&rid=giphy.gif&ct=g" width="800" />
 
